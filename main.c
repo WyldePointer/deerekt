@@ -33,7 +33,8 @@
 #include <netinet/ip.h>
 #include <pcap.h>
 
-void deerekt_print_dns_lookup(const u_char *query)
+void
+deerekt_print_dns_lookup(const u_char *query)
 {
 
   unsigned int len = 0;
