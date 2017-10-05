@@ -1,4 +1,4 @@
-A utility for logging your outgoing DNS requests.
+A lightweight utility for logging your outgoing DNS requests.
 
 ## Output
 ```
