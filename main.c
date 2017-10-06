@@ -39,7 +39,7 @@ deerekt_print_dns_lookup(const u_char *query)
 
   unsigned int len = 0;
   unsigned int i=0;
-  unsigned j=0;
+  unsigned int j=0;
 
   len = query[0];
 
